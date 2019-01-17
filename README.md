@@ -1,7 +1,7 @@
 # CSS Varibles
 
 
-This project is all about exploring CSS varibles - what they are and how they are used. 
+This project is all about exploring CSS variables - what they are and how they are used. 
 
 
 ## Mission
